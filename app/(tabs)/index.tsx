@@ -16,7 +16,7 @@ export default function HomeScreen() {
     }
     return null;
   };
-
+  console.log("push test")
   const data = [
     { label: "Cragable", value: "/Cragable" },
     { label: "WallReport", value: "/WallReport" },
